@@ -14,7 +14,7 @@ def setup_page():
     Sets up the page with custom styles and page configuration.
     """
     st.set_page_config(
-        page_title="Advanced Llama 3.1 Cultural Translator",
+        page_title="Translator-AI (Llama3.1)",
         layout="wide",
         initial_sidebar_state="expanded",
     )
@@ -55,7 +55,7 @@ def main():
     st.markdown(
         """
         <div style="text-align: center;">
-            <h1 class="header-title">🦙 Meta-Llama 3.1 Cultural Translator</h1>
+            <h1 class="header-title">🦙 Meta-Llama 3.1 Translator-AI</h1>
             <p class="header-subtitle">Powered by Meta's advanced language models</p>
         </div>
         """,
