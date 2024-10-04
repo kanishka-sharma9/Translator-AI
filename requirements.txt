@@ -1,0 +1,7 @@
+streamlit
+openai
+requests
+Pillow
+python-dotenv
+langchain
+langchain_community
